@@ -17,3 +17,7 @@ This is a good example of [my code](https://gist.github.com/rohan-mathew/6b78403
 ### Colab example
 
 This is a sample [notebook](https://github.com/rohan-mathew/technical-discussion/blob/main/sample.ipynb)
+
+### Image
+
+(https://github.com/rohan-mathew/technical-discussion/issues/1#issue-1292330759)
