@@ -20,4 +20,5 @@ This is a sample [notebook](https://github.com/rohan-mathew/technical-discussion
 
 ### Image
 
-(https://user-images.githubusercontent.com/108620842/177045290-e0e9042e-7d48-48fc-9c0b-92c8bd47e25f.png)
+![image](https://user-images.githubusercontent.com/108620842/177045536-97de64f6-fa80-4914-a9ac-71c31d2d1717.png)
+
