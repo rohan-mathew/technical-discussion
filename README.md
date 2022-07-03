@@ -20,4 +20,4 @@ This is a sample [notebook](https://github.com/rohan-mathew/technical-discussion
 
 ### Image
 
-(https://github.com/rohan-mathew/technical-discussion/issues/1#issue-1292330759)
+(https://user-images.githubusercontent.com/108620842/177045290-e0e9042e-7d48-48fc-9c0b-92c8bd47e25f.png)
